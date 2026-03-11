@@ -1,3 +1,0 @@
-This is a test file to verify connection to the updates repository.
-Date: 2024
-
